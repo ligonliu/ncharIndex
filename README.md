@@ -2,9 +2,10 @@
 
 ncharIndex, a rudimentary yet effective index for substring queries (e.g. SQL LIKE)
 
-## Read
+## Details
 
 [nCharIndex for speeding up SQL substring match queries](https://ligonliu.github.io/nCharIndex_for_speeding_up_substring_queries.html)
+
 [nCharIndex performance experiment](https://ligonliu.github.io/nCharIndex_performance_experiment.html)
 
 ## Disclaimer
